@@ -1,22 +1,18 @@
-annotated-types==0.7.0
-asgiref==3.8.1
-beautifulsoup4==4.12.3
-certifi==2024.7.4
-charset-normalizer==3.3.2
-crispy-bootstrap5==2024.2
-Django==4.2.15
-django-bootstrap-v5==1.0.11
-django-crispy-forms==2.3
-django-environ==0.11.2
-idna==3.8
-inflection==0.5.1
-pillow==10.4.0
-pyairtable==2.3.3
-pydantic==2.8.2
-pydantic_core==2.20.1
-razorpay==1.4.2
-requests==2.32.3
-soupsieve==2.6
-sqlparse==0.5.1
-typing_extensions==4.12.2
-urllib3==2.2.2
+Topic 4: Handling Job Rejection during placements
+1. *Job rejections can feel discouraging* – Like waiting for a bus that never lets you in, repeated rejections can make you feel invisible and unworthy.  
+
+2. *Perseverance is key* – Despite applying to multiple companies and facing rejection, giving up is not the solution.  
+
+3. *Self-doubt and external pressure are common* – Friends and family may question your abilities, but believing in yourself is crucial.  
+
+4. *Adaptability is necessary* – Instead of waiting for opportunities, create them by improving your skills, networking, and showcasing your work.  
+
+5. *Effort leads to results* – By refining the resume, contributing to open-source projects, and practicing interviews, opportunities start coming.  
+
+6. *Rejection is redirection* – Not getting selected doesn’t mean failure; it means you need to explore different paths.  
+
+7. *Success is about persistence* – Keep trying, keep learning, and eventually, the right opportunity will come.
+
+
+Fear of Coding Interviews
+earning to code is like learning to cook—it requires practice, patience, and persistence. Initially, coding interviews felt overwhelming, but by taking structured steps—studying the basics, practicing through mock interviews, and building real projects—the writer gradually improved. Although they didn’t get the job, they gained confidence and resilience. The key lesson is that coding isn’t about being perfect but about embracing failures, learning from mistakes, and continuously improving. With enough practice, they aspire to master coding like a chef perfecting a five-course meal.
